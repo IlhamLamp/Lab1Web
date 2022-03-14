@@ -28,6 +28,5 @@
 
 ### <b>1. Membuat Paragraf</b>
 ![img3](image/0-1-1_a%2Bparagraph.PNG)
-
-### <b>2. Menambahkan Judul</b>
-![img4](image)
+- center right
+![img4](image/0-1-1-1_al%2Bcenter-right.PNG)
