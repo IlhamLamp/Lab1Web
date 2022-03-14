@@ -47,3 +47,5 @@
 
 ### <b>4. Menyisipkan Gambar</b>
 ![img10](image/0-1-4_a%2Binsert-image.PNG)
+- Menambahkan atribut ``width`` untuk menyesuaikan ukuran
+![img11](image/0-1-4-1_a%2Btry-insert-image.PNG)
