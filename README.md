@@ -65,7 +65,11 @@
   ![img15](image/1-wrong-tag.PNG)
   - Kesalahan penulisan dari ``<title>`` menjadi ``<tilte>`` dapat merubah isi (pada) tag yang seharusnya ``Tag HTML Dasar`` menjadi ``lab1_tag_dasar.html``. Browser tidak mengerti perintah ``<tilte>`` kemudian hanya menampilkan nama file-nya saja.  
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag ``<p>`` dengan tag ``<br>``, berikan penjelasannya!
+  - Jawaban= Keduanya merupakan hal berbeda
+  ![img16](image/2-diff-p-br.PNG)
+  - Tag ``<p>`` (paragraph) akan memberi ruang kosong setiap kali ganti baris, sedangkan ``<br>`` tidak menambah ruang pada keduanya(sebelum/sesudah baris). Tag ``<p>`` juga memiliki penutup ``</p>`` (karna fungsinya sebagai paragraf), sedangkan ``<br>`` tidak memiliki.
+  
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
