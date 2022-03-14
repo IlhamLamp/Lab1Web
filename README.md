@@ -19,11 +19,15 @@
   </tr>
 </table>
 
-# Praktikum
-## Text editor dan browser
+# <b>Praktikum</b>
+## <b>Text editor dan browser</b>
 - Berikut adalah tampilan text editor <i>(VScode)</i> dan browser <i>(Microsoft Edge)</i> yang saya gunakan.
 ![img1](image/0-vswelcome.PNG)
 - Memasukan perintah dasar <b>HTML</b>.
 ![img2](image/0-1-%20tagd.PNG)
 
-### 
+### <b>1. Membuat Paragraf</b>
+![img3](image/0-1-1_a%2Bparagraph.PNG)
+
+### <b>2. Menambahkan Judul</b>
+![img4](image)
