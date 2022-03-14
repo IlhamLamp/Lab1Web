@@ -42,3 +42,6 @@
 ### <b>3. Memformat Teks</b>
 - Menggunakan tag ``<mark>``,``<b>``,``<i>``,dan ``<ins>``
 ![img8](image/0-1-3_a%2Btext-formatting.png)
+- Mencoba beberapa tag, <i>(dengan paragraf baru)</i>
+![img9](image/0-1-3-1_a%2Btext-formatting-try.PNG)
+
