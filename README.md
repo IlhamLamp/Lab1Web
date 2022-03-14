@@ -63,7 +63,7 @@
   ![img14](image/0-1-5_a%2Bhyperlink.PNG)
   Sesudah
   ![img15](image/1-wrong-tag.PNG)
-  - Kesalahan penulisan dari ``<title>`` menjadi ``<tilte>`` dapat merubah isi (pada) tag yang seharusnya ``Tag Halaman Dasar`` menjadi ``lab1_tag_dasar.html``. Browser tidak mengerti perintah ``<tilte>`` kemudian hanya menampilkan nama file-nya saja.  
+  - Kesalahan penulisan dari ``<title>`` menjadi ``<tilte>`` dapat merubah isi (pada) tag yang seharusnya ``Tag HTML Dasar`` menjadi ``lab1_tag_dasar.html``. Browser tidak mengerti perintah ``<tilte>`` kemudian hanya menampilkan nama file-nya saja.  
 
 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
