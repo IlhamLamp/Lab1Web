@@ -30,3 +30,6 @@
 ![img3](image/0-1-1_a%2Bparagraph.PNG)
 - center right
 ![img4](image/0-1-1-1_al%2Bcenter-right.PNG)
+- justify left
+![img4](image/0-1-1-2_al%2Bjustify-left.PNG)
+
