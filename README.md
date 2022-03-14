@@ -43,6 +43,7 @@
 - Menggunakan tag ``<mark>``,``<b>``,``<i>``,dan ``<ins>``
 ![img8](image/0-1-3_a%2Btext-formatting.png)
 - Mencoba beberapa tag, dengan paragraf baru
-![img13](image/0-1-3-1_a%2Btry-text-formatting.png)
+![img9](image/0-1-3-1_a%2Btry-text-formatting.png)
 
 ### <b>4. Menyisipkan Gambar</b>
+![img10](image/0-1-4_a%2Binsert-image.PNG)
