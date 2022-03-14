@@ -20,6 +20,7 @@
 </table>
 
 # <b>Praktikum</b>
+
 ## <b>Text editor dan browser</b>
 - Berikut adalah tampilan text editor <i>(VScode)</i> dan browser <i>(Microsoft Edge)</i> yang saya gunakan.
 ![img1](image/0-vswelcome.PNG)
@@ -54,3 +55,19 @@
 ![img12](image/0-1-5_a%2Bhyperlink.PNG)
 - Tampilan halaman 2
 ![img13](image/0-1-5-1_a%2Btry-hyperlink.PNG)
+
+## Latihan
+1. 1akukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+  - Jawaban = Ya, akan berubah. Seperti berikut:
+  Sebelum
+  ![img14](image/0-1-5_a%2Bhyperlink.PNG)
+  Sesudah
+  ![img15](image/1-wrong-tag.PNG)
+  - Kesalahan penulisan dari ``<title>`` menjadi ``<tilte>`` dapat merubah isi (pada) tag yang seharusnya ``Tag Halaman Dasar`` menjadi ``lab1_tag_dasar.html``. Browser tidak mengerti perintah ``<tilte>`` kemudian hanya menampilkan nama file-nya saja.  
+
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
