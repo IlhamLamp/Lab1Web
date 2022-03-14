@@ -38,3 +38,7 @@
 ### <b>2. Menambahkan Judul</b>
 - <i>H1 dan H2, dengan menghapus tag align</i>
 ![img7](image/0-1-2_a%2Bheading.PNG)
+
+### <b>3. Memformat Teks</b>
+- Menggunakan tag ``<mark>``,``<b>``,``<i>``,dan ``<ins>``
+![img8](image/0-1-3_a%2Btext-formatting.png)
