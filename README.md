@@ -57,20 +57,29 @@
 ![img13](image/0-1-5-1_a%2Btry-hyperlink.PNG)
 
 ## Latihan
-1. 1akukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+<b>1. 1akukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?</b>
   - Jawaban = Ya, akan berubah. Seperti berikut:
   Sebelum
   ![img14](image/0-1-5_a%2Bhyperlink.PNG)
   Sesudah
   ![img15](image/1-wrong-tag.PNG)
   - Kesalahan penulisan dari ``<title>`` menjadi ``<tilte>`` dapat merubah isi (pada) tag yang seharusnya ``Tag HTML Dasar`` menjadi ``lab1_tag_dasar.html``. Browser tidak mengerti perintah ``<tilte>`` kemudian hanya menampilkan nama file-nya saja.  
+<br>
 
-2. Apa perbedaan dari tag ``<p>`` dengan tag ``<br>``, berikan penjelasannya!
-  - Jawaban= Keduanya merupakan hal berbeda
+<b>2. Apa perbedaan dari tag ``<p>`` dengan tag ``<br>``, berikan penjelasannya!</b>
+  - Jawaban = Keduanya merupakan hal berbeda,
   ![img16](image/2-diff-p-br.PNG)
   - Tag ``<p>`` (paragraph) akan memberi ruang kosong setiap kali ganti baris, sedangkan ``<br>`` tidak menambah ruang pada keduanya(sebelum/sesudah baris). Tag ``<p>`` juga memiliki penutup ``</p>`` (karna fungsinya sebagai paragraf), sedangkan ``<br>`` tidak memiliki.
-  
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+<br>
+
+<b>3. Apa perbedaan atribut ``<title>`` dan ``<alt>`` pada tag ``<img>``, berikan penjelasannya!</b>
+  - Jawaban = Keduanya merupakan hal berbeda,
+  ![img17](image/3-diff-title-alt.PNG)
+  - Tag ``<alt>`` akan menampilkan kata jika gambar gagal dimuat (link error, kesalahan penulisan kode, dll).
+  ![img18](image/3-diff-title-alt-n.jpg)
+  -Sedangkan Tag ``<title>`` akan menampilkan kata jika kursor diarahkan kepada gambar yang mengandung atribut tersebut.
+<br>
+
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
