@@ -49,3 +49,8 @@
 ![img10](image/0-1-4_a%2Binsert-image.PNG)
 - Menambahkan atribut ``width`` untuk menyesuaikan ukuran
 ![img11](image/0-1-4-1_a%2Btry-insert-image.PNG)
+
+### <b>5. Menambahkan Hyperlink</b>
+![img12](image/0-1-5_a%2Bhyperlink.PNG)
+- Tampilan halaman 2
+![img13](image/0-1-5-1_a%2Btry-hyperlink.PNG)
