@@ -44,6 +44,4 @@
 ![img8](image/0-1-3_a%2Btext-formatting.png)
 - Mencoba beberapa tag, <i>(dengan paragraf baru)</i>
 ![img13](image/https://github.com/IlhamLamp/Lab1Web/blob/main/image/0-1-3-1_a%2Btext-formatting-try.PNG)
-
-
 ### <b>4. Menyisipkan Gambar </b>
