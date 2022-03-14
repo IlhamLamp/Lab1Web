@@ -61,7 +61,7 @@
   - Jawaban = Ya, akan berubah. Seperti berikut:
   Sebelum
   ![img14](image/0-1-5_a%2Bhyperlink.PNG)
-  Sesudah
+  <br>Sesudah
   ![img15](image/1-wrong-tag.PNG)
   - Kesalahan penulisan dari ``<title>`` menjadi ``<tilte>`` dapat merubah isi (pada) tag yang seharusnya ``Tag HTML Dasar`` menjadi ``lab1_tag_dasar.html``. Browser tidak mengerti perintah ``<tilte>`` kemudian hanya menampilkan nama file-nya saja.  
 <br>
@@ -75,12 +75,17 @@
 <b>3. Apa perbedaan atribut ``<title>`` dan ``<alt>`` pada tag ``<img>``, berikan penjelasannya!</b>
   - Jawaban = Keduanya merupakan hal berbeda,
   ![img17](image/3-diff-title-alt.PNG)
-  - Tag ``<alt>`` akan menampilkan kata jika gambar gagal dimuat (link error, kesalahan penulisan kode, dll).
+  - Tag ``<alt>`` akan menampilkan kata jika gambar gagal dimuat (link error, kesalahan penulisan kode, dll).<br>
   ![img18](image/3-diff-title-alt-n.jpg)
   -Sedangkan Tag ``<title>`` akan menampilkan kata jika kursor diarahkan kepada gambar yang mengandung atribut tersebut.
 <br>
 
-4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
-proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
-_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+  - Jawaban = Width sudah cukup, namun tergantung tujuan dari media nanti.
+  ![img18](image/4-diff-width-height.PNG)
+  - Tag ``<width>`` untuk mengatur lebar gambar.
+  - Tag ``<height>`` untuk menagatur tinggi gambar.
+  - Keduanya memiliki fungsi masing-masing dalam media horizontal dan vertikal.
+<br>
+
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai antribut tersebut?
