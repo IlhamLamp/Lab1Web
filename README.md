@@ -91,7 +91,7 @@
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
   - Jawaban = Untuk navigasi le halaman yang dituju, ada 4 proses:
   - Pada atribut ``_blank``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>tab baru</b>.<br>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ErVTKbX6RtjMb1g0wS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ErVTKbX6RtjMb1g0wS">via GIPHY</a></p><br>
+  ![gif1](https://media.giphy.com/media/ErVTKbX6RtjMb1g0wS/giphy.gif)<br>
   - Pada atribut ``_self``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frame-nya(sendiri)</b>.<br>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/7CZhYRcUJhEi6eFUtj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/7CZhYRcUJhEi6eFUtj">via GIPHY</a></p><br>
+  ![gif2](https://media.giphy.com/media/7CZhYRcUJhEi6eFUtj/giphy.gif)<br>
   - Pada atribut ``_top``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frame-nya(sendiri)</b>.<br>
