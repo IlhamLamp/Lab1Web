@@ -94,4 +94,7 @@
   ![gif1](https://media.giphy.com/media/ErVTKbX6RtjMb1g0wS/giphy.gif)<br>
   - Pada atribut ``_self``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frame-nya(sendiri)</b>.<br>
   ![gif2](https://media.giphy.com/media/7CZhYRcUJhEi6eFUtj/giphy.gif)<br>
-  - Pada atribut ``_top``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frame-nya(sendiri)</b>.<br>
+  - Pada atribut ``_top``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>satu (jendela) halaman penuh</b>, hampir mirip dengan ``_self``.<br>
+  ![gif3](https://media.giphy.com/media/rPKV1UADltNDJtzE8o/giphy.gif)<br>
+  - Pada atribut ``_parent``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frameset langsung(induk)</b>, hampir mirip dengan ``_self``.<br>
+  ![gif4](https://media.giphy.com/media/jGkHlYlRBzDLjFYPNa/giphy.gif)
