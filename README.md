@@ -57,7 +57,7 @@
 ![img13](image/0-1-5-1_a%2Btry-hyperlink.PNG)
 
 ## Latihan
-<b>1. 1akukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?</b>
+<b>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?</b>
   - Jawaban = Ya, akan berubah. Seperti berikut:
   Sebelum
   ![img14](image/0-1-5_a%2Bhyperlink.PNG)
@@ -77,24 +77,25 @@
   ![img17](image/3-diff-title-alt.PNG)
   - Tag ``<alt>`` akan menampilkan kata jika gambar gagal dimuat (link error, kesalahan penulisan kode, dll).<br>
   ![img18](image/3-diff-title-alt-n.jpg)
-  -Sedangkan Tag ``<title>`` akan menampilkan kata jika kursor diarahkan kepada gambar yang mengandung atribut tersebut.
+  - Sedangkan Tag ``<title>`` akan menampilkan kata jika kursor diarahkan kepada gambar yang mengandung atribut tersebut.
 <br>
 
 <b>4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!</b>
   - Jawaban = Width sudah cukup, namun tergantung tujuan dari media nanti.
   ![img18](image/4-diff-width-height.PNG)
   - Tag ``<width>`` untuk mengatur lebar gambar.
-  - Tag ``<height>`` untuk menagatur tinggi gambar.
+  - Tag ``<height>`` untuk mengatur tinggi gambar.
   - Keduanya memiliki fungsi masing-masing dalam media horizontal dan vertikal.
 <br>
 
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
-  - Jawaban = Untuk navigasi le halaman yang dituju, ada 4 proses:
-  - Pada atribut ``_blank``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>tab baru</b>.<br>
+<b>5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?</b>
+  - Jawaban = Untuk navigasi ke halaman yang dituju, ada 4 proses:
+  - Pada atribut ``_blank``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>"TAB BARU"</b>.<br>
   ![gif1](https://media.giphy.com/media/ErVTKbX6RtjMb1g0wS/giphy.gif)<br>
-  - Pada atribut ``_self``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frame-nya(sendiri)</b>.<br>
+  - Pada atribut ``_self``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>"FRAME-NYA(Sendiri)"</b>.<br>
   ![gif2](https://media.giphy.com/media/7CZhYRcUJhEi6eFUtj/giphy.gif)<br>
-  - Pada atribut ``_top``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>satu (jendela) halaman penuh</b>, hampir mirip dengan ``_self``.<br>
+  - Pada atribut ``_top``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>"SATU HALAMAN PENUH"</b>, hampir mirip dengan ``_self``.<br>
   ![gif3](https://media.giphy.com/media/rPKV1UADltNDJtzE8o/giphy.gif)<br>
-  - Pada atribut ``_parent``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>Frameset langsung(induk)</b>, hampir mirip dengan ``_self``.<br>
-  ![gif4](https://media.giphy.com/media/jGkHlYlRBzDLjFYPNa/giphy.gif)
+  - Pada atribut ``_parent``, ketika mengklik tautan, akan membuka halaman yang dituju pada <b>"FRAMESET LANGSUNG(INDUK)"</b>, hampir mirip dengan ``_self``.<br>
+  ![gif4](https://media.giphy.com/media/jGkHlYlRBzDLjFYPNa/giphy.gif)<br>
+  - <i>Referensi: https://youtu.be/kSSn2a9V0Io</i>
